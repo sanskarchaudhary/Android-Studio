@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Android_Studio_projects.iml" filepath="$PROJECT_DIR$/.idea/Android_Studio_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shopping-Ecommerce-App-Project-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Shopping-Ecommerce-App-Project-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vpn-client-ics-openvpn-37.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vpn-client-ics-openvpn-37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applet.iml" filepath="$PROJECT_DIR$/.idea/modules/applet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/onlineshoppingapp-main.iml" filepath="$PROJECT_DIR$/.idea/modules/onlineshoppingapp-main.iml" />
+    </modules>
+  </component>
+</project>
